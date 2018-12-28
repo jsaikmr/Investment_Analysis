@@ -54,4 +54,3 @@ The entire case study is divided into checkpoints to help you navigate. For each
 
 
 Solution can be accessed from [here](Investment Analysis.ipynb)
-
