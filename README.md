@@ -21,13 +21,13 @@ These conditions will give you sufficient information for your initial analysis.
 
  
 
-1. What is the strategy?
+**1. What is the strategy?**
 
 Spark Funds wants to invest where most other investors are investing. This pattern is often observed among early stage startup investors.
 
  
 
-2. Where did we get the data from? 
+**2. Where did we get the data from? **
 
 We have taken real investment data from crunchbase.com, so the insights you get may be incredibly useful. For this project, we have divided the data into the following files:
 
@@ -37,7 +37,7 @@ You have to use three main data tables for the entire analysis (available for do
 
  
 
-3. What is Spark Funds’ business objective?
+**3. What is Spark Funds’ business objective?**
 
 The business objectives and goals of data analysis are pretty straightforward.
 
@@ -48,9 +48,9 @@ Country analysis: Identifying the countries which have been the most heavily inv
 Sector analysis: Understanding the distribution of investments across the eight main sectors. (Note that we are interested in the eight 'main sectors' provided in the mapping file. The two files — companies and rounds2 — have numerous sub-sector names; hence, you will need to map each sub-sector to its main sector.)
  
 
-4. How do you approach the case study? What are the deliverables?
+**4. How do you approach the case study? What are the deliverables?**
 
 The entire case study is divided into checkpoints to help you navigate. For each checkpoint, you are advised to fill in the tables into the spreadsheet provided in the download segment. The tables are also mentioned under the 'Results Expected' section after each checkpoint. Since this is the first case study, you have been provided with some additional guidance. Going forward you will be expected to structure and solve the problem by yourself, just like you would be solving problems in real life scenarios.
 
 
-Solution can be accessed from [here](Investment Analysis.ipynb)
+Solution can be accessed from [here](Investment_Analysis.ipynb)
