@@ -51,3 +51,7 @@ Sector analysis: Understanding the distribution of investments across the eight 
 4. How do you approach the case study? What are the deliverables?
 
 The entire case study is divided into checkpoints to help you navigate. For each checkpoint, you are advised to fill in the tables into the spreadsheet provided in the download segment. The tables are also mentioned under the 'Results Expected' section after each checkpoint. Since this is the first case study, you have been provided with some additional guidance. Going forward you will be expected to structure and solve the problem by yourself, just like you would be solving problems in real life scenarios.
+
+
+Solution can be accessed from [here](Investment Analysis.ipynb)
+
